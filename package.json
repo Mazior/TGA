@@ -1,0 +1,22 @@
+{
+  "name": "tGA",
+  "version": "1.0.0",
+  "description": "GetPrimes and GetPrimesTest",
+  "main": "app/library.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": https://github.com/Mazior/TGA.git"
+  },
+
+  "homepage": "https://github.com/Philipeano/javascript-demo-project#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
