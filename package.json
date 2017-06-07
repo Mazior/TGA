@@ -1,22 +1,26 @@
 {
-  "name": "tGA",
+  "name": "bootcamprepo",
   "version": "1.0.0",
-  "description": "GetPrimes and GetPrimesTest",
-  "main": "app/library.js",
+  "description": "bootcamp exercises",
+  "main": " ",
   "directories": {
-    "test": "tests"
+    "test": "test"
   },
   "scripts": {
-    "test": "mocha tests/tests.js"
+    "test": "jasmine test/test.js"
   },
   "repository": {
     "type": "git",
-    "url": https://github.com/Mazior/TGA.git"
+    "url": "git+https://github.com/Mazior/TGA.git"
   },
-
-  "homepage": "https://github.com/Philipeano/javascript-demo-project#readme",
+  "author": "mazior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mazior/TGA/issues"
+  },
+  "homepage": "https://github.com/Mazior/TGA#readme",
   "dependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^3.2.0"
+    "chai": "^4.0.2",
+    "jasmine": "^2.6.0"
   }
 }
