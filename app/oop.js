@@ -55,15 +55,15 @@ function Dog(petName,petType, petAge,petDisposition){
 }
 
 function Unicorn(petName,petType, petAge,petDisposition){
-	if (!(this instanceof Dog)){
-		return new Dog(petName,petType, petAge,petDisposition);
+	if (!(this instanceof Unicorn)){
+		return new Unicorn(petName,petType, petAge,petDisposition);
 	}
 	this.petName = petName || petName;
 	this.petType = petType || petType;
 	this.petAge = petAge || petAge;
 	this.petDisposition = petDisposition || petDisposition;
 
-	Dog.prototype.petDescription = function(){
+	Unicorn.prototype.petDescription = function(){
 	return this.petDescription();
 	};
 
