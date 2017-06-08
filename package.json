@@ -1,0 +1,23 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "description": "oop to display pet card",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine.test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mazior/TGA.git"
+  },
+  "author": "mazior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mazior/TGA/issues"
+  },
+  "homepage": "https://github.com/Mazior/TGA#readme",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "jasmine": "^2.6.0"
+  }
+}
