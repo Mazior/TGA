@@ -1,0 +1,23 @@
+{
+  "name": "codelabs",
+  "version": "1.0.0",
+  "description": "FixxB\u001b[D\u001b[D\u001bzz\u001b[C\u001b[C\u001b[Duzz and ArithGeo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine.test/test.js\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D/\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mazior/TGA.git"
+  },
+  "author": "mazior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mazior/TGA/issues"
+  },
+  "homepage": "https://github.com/Mazior/TGA#readme",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "jasmine": "^2.6.0"
+  }
+}
