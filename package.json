@@ -1,0 +1,24 @@
+{
+  "name": "consumeapi",
+  "version": "1.0.0",
+  "description": "mommand\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[c\u001b[C\u001b[C\u001b[C\u001b[CLI to display quotes",
+  "main": "httpCon.js",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mazior/TGA.git"
+  },
+  "author": "Mazior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mazior/TGA/issues"
+  },
+  "homepage": "https://github.com/Mazior/TGA#readme"
+}

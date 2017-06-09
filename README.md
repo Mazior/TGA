@@ -1,2 +1,1 @@
-# TGA
-testing git
+# ComsumeApi to display random quotes
