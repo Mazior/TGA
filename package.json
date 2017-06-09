@@ -1,0 +1,19 @@
+{
+  "name": "weblite",
+  "version": "1.0.0",
+  "description": "html and css webite\u001b[D\u001b[D\u001b[Ds\u001b[C\u001b[C\u001b[D\u001b[Dite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mazior/TGA.git"
+  },
+  "author": "mazior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mazior/TGA/issues"
+  },
+  "homepage": "https://github.com/Mazior/TGA#readme"
+}
